@@ -1,0 +1,8 @@
+{
+  "name": "HelixLab — DNA Replication & Mismatch Repair Simulation",
+  "description": "Interactive molecular biology simulation covering complementary base pairing, DNA unwinding, leading/lagging strand synthesis, semiconservative replication, and the Mismatch Repair (MMR) pathway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
